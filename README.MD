@@ -1,10 +1,10 @@
-### Hibernate Demo
+# Hibernate Demo
 
-## Download and Extracts hibernate jars to your projcect  folder 
+### Download and Extracts hibernate jars to your projcect  folder 
 
-## Add hibernate jars to your module settings..
+### Add hibernate jars to your module settings..
 
-## and start playing with hibernate...
+### and start playing with hibernate...
 
 Here this demo shows parent child relationship
 
